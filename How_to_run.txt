@@ -1,0 +1,6 @@
+Install node js first. Then:
+
+from this folder run command prompt then in command prompt run "node index.js"
+Open chrome browser and run //localhost:8080
+Provide room name.
+From other chrome brower also do the same.
